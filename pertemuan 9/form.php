@@ -46,23 +46,28 @@
 		</a>
 	  </div>
 	</nav>
-	
-	<div class="container mt-5">
-		<h1 class="mb-3">Hello, world!</h1>
 
-		<div class="mb-3">
-		  <label for="exampleFormControlInput1" class="form-label">Email address</label>
-		  <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
-		</div>
-		<div class="mb-3">
-		  <label for="exampleFormControlTextarea1" class="form-label">Example textarea</label>
-		  <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
-		</div>
+	<div class="container row px-5">
+		<div class="col-10 px-5">
+		  	<div class="container mt-5">
+				<h1 class="mb-3">Hello, world!</h1>
 
-		<button type="button" class="btn btn-danger">Primary</button>
+				<div class="mb-3">
+				  <label for="exampleFormControlInput1" class="form-label">Email address</label>
+				  <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
+				</div>
+				<div class="mb-3">
+				  <label for="exampleFormControlTextarea1" class="form-label">Example textarea</label>
+				  <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+				</div>
+
+				<button type="button" class="btn btn-danger">Primary</button>
+			</div>
+		</div>
+		<div class="col-2">
+		  <img class="mt-5" width="400px" src="img/model1.png"/>
+		</div>
 	</div>
-	
-	
 	
 	
 	
@@ -81,7 +86,7 @@
 		  <li class="nav-item"><a target="_blank" href="https://www.linkedin.com/in/isetiabhakti/" class="nav-link px-2 text-light">Linkedin |</a></li>
 		  <li class="nav-item"><a target="_blank" href="https://www.behance.net/ilham513" class="nav-link px-2 text-light">Portfolio |</a></li>
 		  <li class="nav-item"><a target="_blank" href="https://isetiabhakti.medium.com/" class="nav-link px-2 text-light">Blog |</a></li>
-		  <li class="nav-item"><a target="_blank" href="mailto: ilhamsetia13@gmail.com" class="nav-link px-2 text-light">Email</a></li>
+		  <li class="nav-item"><a target="_blank" href="https://github.com/ilham513/" class="nav-link px-2 text-light">Github</a></li>
 		</ul>
 	  </footer>
 	</div>
