@@ -1,0 +1,56 @@
+[
+    {
+        "cabang": "bali",
+        "nama": "Ilham",
+        "hp": "08xxxxx",
+        "jumlah": "1",
+        "tagihan": 50000,
+        "diskon": 0,
+        "tagihan_akhir": 50000
+    },
+    {
+        "cabang": "bandung",
+        "nama": "Setia",
+        "hp": "08xxxxx",
+        "jumlah": "10",
+        "tagihan": 500000,
+        "diskon": 25000,
+        "tagihan_akhir": 475000
+    },
+    {
+        "cabang": "bekas",
+        "nama": "Bhakti",
+        "hp": "08xxxx",
+        "jumlah": "2",
+        "tagihan": 100000,
+        "diskon": 5000,
+        "tagihan_akhir": 95000
+    },
+    {
+        "cabang": "bekas",
+        "nama": "Dari",
+        "hp": "08xxxx",
+        "jumlah": "5",
+        "tagihan": 250000,
+        "diskon": 12500,
+        "tagihan_akhir": 237500
+    },
+    {
+        "cabang": "bekasi",
+        "nama": "Bekasi",
+        "hp": "08xxxx",
+        "jumlah": "20",
+        "tagihan": 1000000,
+        "diskon": 50000,
+        "tagihan_akhir": 950000
+    },
+    {
+        "cabang": "bekasi",
+        "nama": "Ilham Setia Bhakti",
+        "hp": "089998994858",
+        "jumlah": "2",
+        "tagihan": 100000,
+        "diskon": 5000,
+        "tagihan_akhir": 95000
+    }
+]
