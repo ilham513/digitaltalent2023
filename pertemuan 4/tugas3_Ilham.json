@@ -1,0 +1,38 @@
+[
+    {
+        "celcius": "10",
+        "fahrenheit": 50,
+        "reamur": 6,
+        "kelvin": 283
+    },
+    {
+        "celcius": "20",
+        "fahrenheit": 68,
+        "reamur": 12,
+        "kelvin": 293
+    },
+    {
+        "celcius": "30",
+        "fahrenheit": 86,
+        "reamur": 18,
+        "kelvin": 303
+    },
+    {
+        "celcius": "50",
+        "fahrenheit": 122,
+        "reamur": 30,
+        "kelvin": 323
+    },
+    {
+        "celcius": "60",
+        "fahrenheit": 140,
+        "reamur": 36,
+        "kelvin": 333
+    },
+    {
+        "celcius": "70",
+        "fahrenheit": 158,
+        "reamur": 42,
+        "kelvin": 343
+    }
+]
